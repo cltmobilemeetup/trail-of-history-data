@@ -1,0 +1,39 @@
+{
+  "pointOfInterest" : {
+    "-KPouRkGrVFmiUg-OunS" : {
+      "description" : "Starting from a small dry goods store in Monroe, North Carolina, William Henry Belk opened retail stores in Charlotte and other communities across the southeast from the end of the nineteenth-century through the mid twentieth-century.",
+      "latitude" : 35.212547,
+      "longitude" : 35.212547,
+      "name" : "William Henry Belk",
+      "uid" : "-KPouRkGrVFmiUg-OunS"
+    },
+    "-KPoup9lStpM2tZEZkPr" : {
+      "description" : "A prominent African American businessman and civic leader, Thaddeus (Thad) Lincoln Tate made a significant contribution to the Charlotte community in the early to mid twentieth-century.",
+      "latitude" : 35.212177,
+      "longitude" : -80.836235,
+      "name" : "Thaddeus Tate",
+      "uid" : "-KPoup9lStpM2tZEZkPr"
+    },
+    "-KPousJ4PYHBxIW7RY3m" : {
+      "description" : "On May 19, 1775 a rider raced into Charlottetowne with news of the massacre of colonists by the British at the Battle of Concord and Lexington.",
+      "latitude" : 35.21687,
+      "longitude" : -80.8327,
+      "name" : "Captain Jack",
+      "uid" : "-KPousJ4PYHBxIW7RY3m"
+    },
+    "-KPouxawWJ-S_IFuUqSG" : {
+      "description" : "Thomas “Kanawha” Spratt was among the earliest settlers in this part of the Carolinas. His father, also named Thomas Spratt, purchased land on Twelve Mile Creek, near present-day Fort Mill, SC, in 1750 and later added two plantations.",
+      "latitude" : 35.22006,
+      "longitude" : -80.83041,
+      "name" : "Thomas Spratt and King Haigler",
+      "uid" : "-KPouxawWJ-S_IFuUqSG"
+    },
+    "-KPov2XF4D6WFKrlVMl0" : {
+      "description" : "Thomas Polk, one of the earliest settlers of Mecklenburg County, was a trained surveyor, a prosperous planter, and a local leader.",
+      "latitude" : 35.21912,
+      "longitude" : -80.82952,
+      "name" : "Thomas Polk",
+      "uid" : "-KPov2XF4D6WFKrlVMl0"
+    }
+  }
+}
